@@ -46,7 +46,7 @@ Extended Next Hop: (true/false)
 
 ### Mainland China - China Telecom
  - WireGuard 公钥: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
- - 端点: `在收到邮件后，我会提供具体的端点信息`
+ - 端点: `在收到邮件后，我会提供具体的端点信息，我的端点仅支持 IPv6。`
  - 本地 IPV6 链路: `fe80::2999:228`
  - DN42 IPv4: `172.20.154.228`
  - DN42 IPv6: `fddf:3681:e80::228`
