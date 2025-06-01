@@ -1,5 +1,9 @@
 # Bingxin Network (AS4242423374)
 
+## Network Topology
+
+![Bingxin Network Topology](https://resource.dn42.baka.pub/Bingxin-Network.webp)
+
 ## Peering Request
 
 Bingxin Network is currently open for peering. You can peer with us by establishing a WireGuard tunnel.

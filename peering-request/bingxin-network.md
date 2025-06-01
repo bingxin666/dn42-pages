@@ -1,5 +1,9 @@
 # Bingxin Network (AS4242423374) 
 
+## 拓补图
+
+![Bingxin Network Topology](https://resource.dn42.baka.pub/Bingxin-Network.webp)
+
 ## 对等连接请求
 
 目前 Bingxin Network 开放 Peering，您可以通过建立 WireGuard 隧道与我 Peering。
