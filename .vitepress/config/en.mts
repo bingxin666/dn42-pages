@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export const en = defineConfig({
   title: "BAKA.PUB DN42",
-  description: "An experimental decentralized flower network",
+  description: "A decentralized experimental network",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
