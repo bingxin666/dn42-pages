@@ -4,7 +4,7 @@
 
 目前 Bingxin Network 开放 Peering，您可以通过建立 WireGuard 隧道与我 Peering。
 
-**请将以下信息通过电子邮件发送至 bingxin666@byteloid.one，我会在七天左右配置好并回复邮件。**
+**请将以下信息通过电子邮件发送至 bingxin@baka.pub，我会在七天左右配置好并回复邮件。**
 
 ```text
 ASN: 424242xxxx

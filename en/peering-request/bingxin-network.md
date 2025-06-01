@@ -4,7 +4,7 @@
 
 Bingxin Network is currently open for peering. You can peer with us by establishing a WireGuard tunnel.
 
-**Please send the following information via email to bingxin666@byteloid.one. I will configure it and reply to the email in about seven days.**
+**Please send the following information via email to bingxin@baka.pub. I will configure it and reply to the email in about seven days.**
 
 ```text
 ASN: 424242xxxx
