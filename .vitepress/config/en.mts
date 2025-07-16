@@ -17,7 +17,8 @@ export const en = defineConfig({
         text: 'Services',
         items: [
           { text: 'DNS Services', link: '/en/service/dns' },
-          { text: 'Looking Glass Services', link: '/en/service/looking-glass' }
+          { text: 'Looking Glass Services', link: '/en/service/looking-glass' },
+          { text: 'Radio Services', link: '/en/service/radio' }
         ]
       },
       {

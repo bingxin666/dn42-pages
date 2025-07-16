@@ -17,7 +17,8 @@ export const zh = defineConfig({
         text: '服务',
         items: [
           { text: 'DNS 服务', link: '/service/dns' },
-          { text: 'Looking Glass 服务', link: '/service/looking-glass' }
+          { text: 'Looking Glass 服务', link: '/service/looking-glass' },
+          { text: '电台服务', link: '/service/radio' }
         ]
       },
       {
