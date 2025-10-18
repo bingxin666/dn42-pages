@@ -32,33 +32,33 @@ Extended Next Hop: (true/false)
  - 端点: `hk01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:225`
  - DN42 IPv4: `172.20.154.225`
- - DN42 IPv6: `fddf:3681:e80::225`
+ - DN42 IPv6: `fddf:3681:e80:225::1`
 
 ### United States - LegendVPS
  - WireGuard 公钥: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
  - 端点: `us01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:229`
  - DN42 IPv4: `172.20.154.229`
- - DN42 IPv6: `fddf:3681:e80::229`
+ - DN42 IPv6: `fddf:3681:e80:229::1`
 
 ### Japan - ACCK
  - WireGuard 公钥: `N7iQzqWLPb6lpRlf7grQG6rEzQOvDZWkmsRDkRnniH0=`
  - 端点: `jp01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:226`
  - DN42 IPv4: `172.20.154.226`
- - DN42 IPv6: `fddf:3681:e80::226`
+ - DN42 IPv6: `fddf:3681:e80:226::1`
 
 ### Singapore - Oracle
  - WireGuard 公钥: `O3zvtZQNT6InSXgYDloIuQ4jP6PHO06WtsKz6coylBs=`
  - 端点: `sg01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:227`
  - DN42 IPv4: `172.20.154.227`
- - DN42 IPv6: `fddf:3681:e80::227`
+ - DN42 IPv6: `fddf:3681:e80:227::1`
 
 ### Mainland China - China Telecom
  - WireGuard 公钥: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
  - 端点: `在收到邮件后，我会提供具体的端点信息，我的端点仅支持 IPv6。`
  - 本地 IPV6 链路: `fe80::2999:228`
  - DN42 IPv4: `172.20.154.228`
- - DN42 IPv6: `fddf:3681:e80::228`
+ - DN42 IPv6: `fddf:3681:e80:228::1`
  - **注意：只和中国大陆的节点 Peering。**
