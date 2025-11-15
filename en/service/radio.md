@@ -1,6 +1,6 @@
 # Radio Service
 
-We provide a radio service within the DN42 network, accessible at [Radio](https://radio.baka.pub).
+We provide a radio service within the DN42 network, accessible at [Radio](https://radio.baka.dn42).
 
 Currently, the radio plays the following content in a loop (not in any specific order):
  - [【哈基米音乐】🐱《俄罗斯方块》🐱](https://www.bilibili.com/video/BV1j8jRzuEvL/)
