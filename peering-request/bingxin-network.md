@@ -1,9 +1,5 @@
 # Bingxin Network (AS4242423374) 
 
-## 拓补图
-
-![Bingxin Network Topology](https://resource.dn42.baka.pub/Bingxin-Network.webp)
-
 ## 对等连接请求
 
 目前 Bingxin Network 开放 Peering，您可以通过建立 WireGuard 隧道与我 Peering。
@@ -25,40 +21,69 @@ Extended Next Hop: (true/false)
 
 **我更倾向于同时使用 `Multi-Protocol BGP` 和 `Extended Next Hop`。**
 
-## 节点列表
+## Global Network
 
-### Hong Kong - ACCK
+在全球提供统一且高质量的 DN42 连接服务。
+
+### 拓补图
+
+![Global Network Topology](https://resource.dn42.baka.pub/Global-Network.webp)
+
+### 节点列表
+
+#### Hong Kong - ACCK
  - WireGuard 公钥: `zcxhWeI3SrJtqlHuqdeNaCeWSwJIYOTjAraXm655+VY=`
  - 端点: `hk01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:225`
  - DN42 IPv4: `172.20.154.225`
  - DN42 IPv6: `fddf:3681:e80:225::1`
 
-### United States - LegendVPS
- - WireGuard 公钥: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
- - 端点: `us01.dn42.baka.pub:<您 ASN 的最后五位数字>`
- - 本地 IPV6 链路: `fe80::2999:229`
- - DN42 IPv4: `172.20.154.229`
- - DN42 IPv6: `fddf:3681:e80:229::1`
-
-### Japan - ACCK
+#### Japan - ACCK
  - WireGuard 公钥: `N7iQzqWLPb6lpRlf7grQG6rEzQOvDZWkmsRDkRnniH0=`
  - 端点: `jp01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:226`
  - DN42 IPv4: `172.20.154.226`
  - DN42 IPv6: `fddf:3681:e80:226::1`
 
-### Singapore - Oracle
+#### Singapore - Oracle
  - WireGuard 公钥: `O3zvtZQNT6InSXgYDloIuQ4jP6PHO06WtsKz6coylBs=`
  - 端点: `sg01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:227`
  - DN42 IPv4: `172.20.154.227`
  - DN42 IPv6: `fddf:3681:e80:227::1`
 
-### Mainland China - China Telecom
+#### United States - 荔枝云
+ - WireGuard 公钥: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
+ - 端点: `us01.dn42.baka.pub:<您 ASN 的最后五位数字>`
+ - 本地 IPV6 链路: `fe80::2999:229`
+ - DN42 IPv4: `172.20.154.229`
+ - DN42 IPv6: `fddf:3681:e80:229::1`
+
+#### United States - SCIX
+ - 本地 IPV6 链路: `fe80::2999:230`
+ - DN42 IPv4: `172.20.154.230`
+ - DN42 IPv6: `fddf:3681:e80:230::1`
+ - 仅支持通过 IX Peering 连接
+
+## China Network
+
+针对中国大陆用户提供低延迟的 DN42 连接服务。
+
+### 拓补图
+
+![China Network Topology](https://resource.dn42.baka.pub/China-Network.webp)
+
+### 节点列表
+
+#### Chengdu - 中国电信
  - WireGuard 公钥: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
- - 端点: `在收到邮件后，我会提供具体的端点信息，我的端点仅支持 IPv6。`
- - 本地 IPV6 链路: `fe80::2999:228`
- - DN42 IPv4: `172.20.154.228`
- - DN42 IPv6: `fddf:3681:e80:228::1`
- - **注意：只和中国大陆的节点 Peering。**
+ - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv6 连接地址。`
+ - 本地 IPV6 链路: `fe80::2999:233`
+ - DN42 IPv4: `172.20.154.233`
+ - DN42 IPv6: `fddf:3681:e80:233::1`
+
+#### Chengdu - AKIX
+ - 本地 IPV6 链路: `fe80::2999:234`
+ - DN42 IPv4: `172.20.154.234`
+ - DN42 IPv6: `fddf:3681:e80:234::1`
+ - 仅支持通过 IX Peering 连接
