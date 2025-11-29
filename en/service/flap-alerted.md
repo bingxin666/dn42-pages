@@ -4,4 +4,4 @@ We provide the FlapAlerted Monitoring Service, allowing DN42 network participant
 
 You can access our FlapAlerted Monitoring Service at the following address:
 
-[FlapAlerted - Operated by Bingxin Network](https://flap-dn42.baka.pub)
+[FlapAlerted - AS4242423374](https://flap-dn42.baka.pub)

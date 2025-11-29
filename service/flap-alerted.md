@@ -4,4 +4,4 @@
 
 您可以通过以下地址访问我们的 FlapAlerted 监测服务：
 
-[FlapAlerted - 由 Bingxin Network 运营](https://flap-dn42.baka.pub)
+[FlapAlerted - AS4242423374](https://flap-dn42.baka.pub)

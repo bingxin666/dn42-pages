@@ -1,6 +1,6 @@
 # 电台服务
 
-我们在 DN42 网络内部提供电台服务，地址为 [Radio](https://radio.baka.dn42)。
+我们在 DN42 网络内部提供电台服务，地址为 [Radio.Baka.DN42](https://radio.baka.dn42)。
 
 目前电台循环播放以下内容（非播放顺序）：
  - [【哈基米音乐】🐱《俄罗斯方块》🐱](https://www.bilibili.com/video/BV1j8jRzuEvL/)
