@@ -4,4 +4,5 @@
 
 您可以通过以下地址访问我们的 Looking Glass：
 
-[BAKA.PUB DN42 Looking Glass - 由 Bingxin Network 运营](https://lg-dn42.baka.pub)
+ - [AS4242423374 - Global Network](https://lg-dn42.baka.pub)
+ - [AS4242423374 - China Network](https://lg-dn42-cn.baka.pub)

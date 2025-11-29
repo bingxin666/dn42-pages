@@ -4,4 +4,5 @@ We provide a Looking Glass service to allow DN42 network participants to test th
 
 You can access our Looking Glass at the following address:
 
-[BAKA.PUB DN42 Looking Glass - Operated by Bingxin Network](https://lg-dn42.baka.pub)
+ - [AS4242423374 - Global Network](https://lg-dn42.baka.pub)
+ - [AS4242423374 - China Network](https://lg-dn42-cn.baka.pub)
