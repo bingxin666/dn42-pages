@@ -18,6 +18,7 @@ export const zh = defineConfig({
         items: [
           { text: 'DNS 服务', link: '/service/dns' },
           { text: 'Looking Glass 服务', link: '/service/looking-glass' },
+          { text: 'FlapAlerted 监测服务', link: '/service/flap-alerted' },
           { text: '电台服务', link: '/service/radio' }
         ]
       },
