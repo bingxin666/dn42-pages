@@ -16,10 +16,11 @@ export const en = defineConfig({
       {
         text: 'Services',
         items: [
-          { text: 'DNS Services', link: '/en/service/dns' },
-          { text: 'Looking Glass Services', link: '/en/service/looking-glass' },
-          { text: 'FlapAlerted Monitoring Service', link: '/en/service/flap-alerted' },
-          { text: 'Radio Services', link: '/en/service/radio' }
+          { text: 'Anycast DNS', link: '/en/service/dns' },
+          { text: 'DNS Hosting', link: '/en/service/dns-hosting' },
+          { text: 'Looking Glass', link: '/en/service/looking-glass' },
+          { text: 'FlapAlerted', link: '/en/service/flap-alerted' },
+          { text: 'Online Radio', link: '/en/service/radio' }
         ]
       },
       {

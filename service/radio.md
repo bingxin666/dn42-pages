@@ -1,4 +1,4 @@
-# 电台服务
+# 在线电台
 
 我们在 DN42 网络内部提供电台服务，地址为 [Radio.Baka.DN42](https://radio.baka.dn42)。
 

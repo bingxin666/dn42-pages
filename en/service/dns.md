@@ -1,6 +1,6 @@
-# DNS Service
+# Anycast DNS
 
-We provide DNS services, and you can choose one or more of the following DNS servers to configure:
+We provide Anycast DNS services, and you can choose one or more of the following DNS servers to configure:
 
 | Server            | IP Address     | Provider                       |
 | ----------------- | -------------- | ------------------------------ |

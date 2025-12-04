@@ -1,4 +1,4 @@
-# FlapAlerted Monitoring Service
+# FlapAlerted
 
 We provide the FlapAlerted Monitoring Service, allowing DN42 network participants to detect path changes and BGP flap events.
 

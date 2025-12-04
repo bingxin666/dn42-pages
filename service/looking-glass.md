@@ -1,4 +1,4 @@
-# Looking Glass 服务
+# Looking Glass
 
 我们提供 Looking Glass 服务，允许 DN42 网络参与者测试他们的连接。
 
@@ -6,3 +6,4 @@
 
  - [AS4242423374 - Global Network](https://lg-dn42.baka.pub)
  - [AS4242423374 - China Network](https://lg-dn42-cn.baka.pub)
+ - [AS4242420774 - Looking Glass](https://lg.xxl.moe)

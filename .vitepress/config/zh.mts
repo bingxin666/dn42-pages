@@ -16,10 +16,11 @@ export const zh = defineConfig({
       {
         text: '服务',
         items: [
-          { text: 'DNS 服务', link: '/service/dns' },
-          { text: 'Looking Glass 服务', link: '/service/looking-glass' },
-          { text: 'FlapAlerted 监测服务', link: '/service/flap-alerted' },
-          { text: '电台服务', link: '/service/radio' }
+          { text: 'Anycast DNS', link: '/service/dns' },
+          { text: 'DNS 托管', link: '/service/dns-hosting' },
+          { text: 'Looking Glass', link: '/service/looking-glass' },
+          { text: 'FlapAlerted', link: '/service/flap-alerted' },
+          { text: '在线电台', link: '/service/radio' }
         ]
       },
       {
