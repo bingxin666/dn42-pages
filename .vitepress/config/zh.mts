@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export const zh = defineConfig({
   title: "BAKA.PUB DN42",
-  description: "一个实验性的去中心化网络",
+  description: "实验性的去中心化网络团体",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "BAKA.PUB"
   text: "DN42 Network"
-  tagline: A decentralized experimental network
+  tagline: Dcentralized experimental network community
   actions:
     - theme: brand
       text: Services
@@ -17,10 +17,10 @@ hero:
 features:
   - title: Multi-Node
     icon: 🌐
-    details: Nodes in over 4 regions worldwide
+    details: Nodes in over 6 regions worldwide
   - title: Decentralized
     icon: ⛓️‍💥
-    details: We are one of the participants in the DN42 Network
+    details: We are the participants in the DN42 Network
   - title: Stable Services
     icon: 🚥
     details: Providing internal services to DN42 Network participants
