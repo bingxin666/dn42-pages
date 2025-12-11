@@ -2,6 +2,8 @@
 
 ## Peering Request
 
+**We have now opened AutoPeer for some nodes. You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
+
 Bingxin Network is currently open for peering. You can peer with us by establishing a WireGuard tunnel.
 
 **Please send the following information via email to bingxin@baka.pub. I will configure it and reply to the email in about seven days.**

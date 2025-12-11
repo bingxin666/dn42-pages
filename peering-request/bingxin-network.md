@@ -2,6 +2,10 @@
 
 ## 对等连接请求
 
+**我们现已开放部分节点的 AutoPeer，您可在 Telegram 使用 [@baka_lg_bot](https://t.me/baka_lg_bot) 进行自助 Peer！**
+
+---
+
 目前 Bingxin Network 开放 Peering，您可以通过建立 WireGuard 隧道与我 Peering。
 
 **请将以下信息通过电子邮件发送至 bingxin@baka.pub，我会在七天左右配置好并回复邮件。**
