@@ -50,14 +50,14 @@ Extended Next Hop: (true/false)
  - DN42 IPv4: `172.20.154.227`
  - DN42 IPv6: `fddf:3681:e80:227::1`
 
-#### United Kingdom - Lychee
+#### United Kingdom - Lycheen
  - WireGuard Public Key: `ANz369fsR5R5tLoFDPghR+/ODIh9QbeUpRNMEhkA4Fs=`
  - Endpoint: `uk01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:228`
  - DN42 IPv4: `172.20.154.228`
  - DN42 IPv6: `fddf:3681:e80:228::1`
 
-#### United States - Lychee
+#### United States - Lycheen
  - WireGuard Public Key: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
  - Endpoint: `us01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:229`
