@@ -2,7 +2,7 @@
 
 ## Peering Request
 
-**We have now opened AutoPeer for some nodes. You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
+**We have now opened AutoPeer for all overseas nodes (except Hong Kong, China). You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
 
 Bingxin Network is currently open for peering. You can peer with us by establishing a WireGuard tunnel.
 
@@ -23,13 +23,7 @@ Extended Next Hop: (true/false)
 
 **I prefer to use both `Multi-Protocol BGP` and `Extended Next Hop`.**
 
-## Global Network
-
-Providing unified and high-quality DN42 connectivity globally.
-
-### Topology
-
-![Global Network Topology](https://resource.dn42.baka.pub/Global-Network.webp)
+---
 
 ### Node List
 
@@ -54,7 +48,14 @@ Providing unified and high-quality DN42 connectivity globally.
  - DN42 IPv4: `172.20.154.227`
  - DN42 IPv6: `fddf:3681:e80:227::1`
 
-#### United States - Lycheen
+#### United Kingdom - Lychee
+ - WireGuard Public Key: `ANz369fsR5R5tLoFDPghR+/ODIh9QbeUpRNMEhkA4Fs=`
+ - Endpoint: `uk01.dn42.baka.pub:<Last five digits of your ASN>`
+ - Local IPv6 Link: `fe80::2999:228`
+ - DN42 IPv4: `172.20.154.228`
+ - DN42 IPv6: `fddf:3681:e80:228::1`
+
+#### United States - Lychee
  - WireGuard Public Key: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
  - Endpoint: `us01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:229`
@@ -67,19 +68,18 @@ Providing unified and high-quality DN42 connectivity globally.
  - DN42 IPv6: `fddf:3681:e80:230::1`
  - Only supports peering via IX
 
-## China Network
+#### Germany - BageVM
+ - WireGuard Public Key: `JH1b0u0u1bXG3jz1Y9f+1kYV3ZkU6v5y5cX1F2v3K4nE=`
+ - Endpoint: `de01.dn42.baka.pub:<Last five digits of your ASN>`
+ - Local IPv6 Link: `fe80::2999:232`
+ - DN42 IPv4: `172.20.154.232`
+ - DN42 IPv6: `fddf:3681:e80:232::1`
 
-Providing low-latency DN42 connectivity specifically for users in Mainland China.
-
-### Topology
-
-![China Network Topology](https://resource.dn42.baka.pub/China-Network.webp)
-
-### Node List
+---
 
 #### Chengdu - China Telecom
  - WireGuard Public Key: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
- - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv6 by default.`
+ - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv6 connection by default.`
  - Local IPv6 Link: `fe80::2999:233`
  - DN42 IPv4: `172.20.154.233`
  - DN42 IPv6: `fddf:3681:e80:233::1`
@@ -89,3 +89,9 @@ Providing low-latency DN42 connectivity specifically for users in Mainland China
  - DN42 IPv4: `172.20.154.234`
  - DN42 IPv6: `fddf:3681:e80:234::1`
  - Only supports peering via IX
+
+#### Shanghai - Dual Line
+ - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv6 connection by default.`
+ - Local IPv6 Link: `fe80::2999:235`
+ - DN42 IPv4: `172.20.154.235`
+ - DN42 IPv6: `fddf:3681:e80:235::1`

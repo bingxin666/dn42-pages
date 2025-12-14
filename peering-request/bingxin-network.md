@@ -2,7 +2,7 @@
 
 ## 对等连接请求
 
-**我们现已开放部分节点的 AutoPeer，您可在 Telegram 使用 [@baka_lg_bot](https://t.me/baka_lg_bot) 进行自助 Peer！**
+**我们现已开放海外全部节点（中国香港除外）的 AutoPeer，您可在 Telegram 使用 [@baka_lg_bot](https://t.me/baka_lg_bot) 进行自助 Peer！**
 
 ---
 
@@ -24,14 +24,6 @@ Extended Next Hop: (true/false)
 ```
 
 **我更倾向于同时使用 `Multi-Protocol BGP` 和 `Extended Next Hop`。**
-
-## Global Network
-
-在全球提供统一且高质量的 DN42 连接服务。
-
-### 拓补图
-
-![Global Network Topology](https://resource.dn42.baka.pub/Global-Network.webp)
 
 ### 节点列表
 
@@ -56,6 +48,13 @@ Extended Next Hop: (true/false)
  - DN42 IPv4: `172.20.154.227`
  - DN42 IPv6: `fddf:3681:e80:227::1`
 
+#### United Kingdom - 荔枝云
+ - WireGuard 公钥: `ANz369fsR5R5tLoFDPghR+/ODIh9QbeUpRNMEhkA4Fs=`
+ - 端点: `uk01.dn42.baka.pub:<您 ASN 的最后五位数字>`
+ - 本地 IPV6 链路: `fe80::2999:228`
+ - DN42 IPv4: `172.20.154.228`
+ - DN42 IPv6: `fddf:3681:e80:228::1`
+
 #### United States - 荔枝云
  - WireGuard 公钥: `p8ADoxb0sVm1ZBp9Fkom6IaP04dm1DLrpHQLfI9HpGY=`
  - 端点: `us01.dn42.baka.pub:<您 ASN 的最后五位数字>`
@@ -69,15 +68,14 @@ Extended Next Hop: (true/false)
  - DN42 IPv6: `fddf:3681:e80:230::1`
  - 仅支持通过 IX Peering 连接
 
-## China Network
+#### Germany - BageVM
+ - WireGuard 公钥: `JH1b0u0u1bXG3jz1Y9f+1kYV3ZkU6v5y5cX1F2v3K4nE=`
+ - 端点: `de01.dn42.baka.pub:<您 ASN 的最后五位数字>`
+ - 本地 IPV6 链路: `fe80::2999:232`
+ - DN42 IPv4: `172.20.154.232`
+ - DN42 IPv6: `fddf:3681:e80:232::1`
 
-针对中国大陆用户提供低延迟的 DN42 连接服务。
-
-### 拓补图
-
-![China Network Topology](https://resource.dn42.baka.pub/China-Network.webp)
-
-### 节点列表
+---
 
 #### Chengdu - 中国电信
  - WireGuard 公钥: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
@@ -91,3 +89,9 @@ Extended Next Hop: (true/false)
  - DN42 IPv4: `172.20.154.234`
  - DN42 IPv6: `fddf:3681:e80:234::1`
  - 仅支持通过 IX Peering 连接
+
+#### Shanghai - 双线
+ - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv6 连接地址。`
+ - 本地 IPV6 链路: `fe80::2999:235`
+ - DN42 IPv4: `172.20.154.235`
+ - DN42 IPv6: `fddf:3681:e80:235::1`
