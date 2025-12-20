@@ -69,7 +69,7 @@ Extended Next Hop: (true/false)
  - 仅支持通过 IX Peering 连接
 
 #### Germany - BageVM
- - WireGuard 公钥: `JH1b0u0u1bXG3jz1Y9f+1kYV3ZkU6v5y5cX1F2v3K4nE=`
+ - WireGuard 公钥: `xFZ0S57R5ykjq5lThYEvLLWHhv2+De5D26p4bX5wdSo=`
  - 端点: `de01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:232`
  - DN42 IPv4: `172.20.154.232`
