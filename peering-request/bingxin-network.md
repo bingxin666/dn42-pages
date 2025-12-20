@@ -2,7 +2,7 @@
 
 ## 对等连接请求
 
-**我们现已开放海外全部节点（中国香港除外）的 AutoPeer，您可在 Telegram 使用 [@baka_lg_bot](https://t.me/baka_lg_bot) 进行自助 Peer！**
+**我们现已开放全部节点（中国大陆和 DN42 IX 除外）的 AutoPeer，您可在 Telegram 使用 [@baka_lg_bot](https://t.me/baka_lg_bot) 进行自助 Peer！**
 
 ---
 
@@ -27,7 +27,7 @@ Extended Next Hop: (true/false)
 
 ### 节点列表
 
-#### Hong Kong - ACCK
+#### Hong Kong - Hytron
  - WireGuard 公钥: `zcxhWeI3SrJtqlHuqdeNaCeWSwJIYOTjAraXm655+VY=`
  - 端点: `hk01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:225`

@@ -2,7 +2,7 @@
 
 ## Peering Request
 
-**We have now opened AutoPeer for all overseas nodes (except Hong Kong, China). You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
+**We have now opened AutoPeer for all nodes (except China Mainland and DN42 IX). You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
 
 ---
 
@@ -29,7 +29,7 @@ Extended Next Hop: (true/false)
 
 ### Node List
 
-#### Hong Kong - ACCK
+#### Hong Kong - Hytron
  - WireGuard Public Key: `zcxhWeI3SrJtqlHuqdeNaCeWSwJIYOTjAraXm655+VY=`
  - Endpoint: `hk01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:225`
