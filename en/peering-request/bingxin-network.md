@@ -79,9 +79,9 @@ Extended Next Hop: (true/false)
 
 ---
 
-#### Chengdu - China Telecom
+#### Guangzhou - Alibaba Cloud
  - WireGuard Public Key: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
- - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv6 connection by default.`
+ - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv4 connection by default.`
  - Local IPv6 Link: `fe80::2999:233`
  - DN42 IPv4: `172.20.154.233`
  - DN42 IPv6: `fddf:3681:e80:233::1`

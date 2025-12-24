@@ -77,9 +77,9 @@ Extended Next Hop: (true/false)
 
 ---
 
-#### Chengdu - 中国电信
+#### Guangzhou - 阿里云
  - WireGuard 公钥: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
- - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv6 连接地址。`
+ - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv4 连接地址。`
  - 本地 IPV6 链路: `fe80::2999:233`
  - DN42 IPv4: `172.20.154.233`
  - DN42 IPv6: `fddf:3681:e80:233::1`
