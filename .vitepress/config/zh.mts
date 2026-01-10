@@ -20,6 +20,7 @@ export const zh = defineConfig({
           { text: 'DNS 托管', link: '/service/dns-hosting' },
           { text: 'Looking Glass', link: '/service/looking-glass' },
           { text: 'FlapAlerted', link: '/service/flap-alerted' },
+          { text: 'Speedtest 网速测试', link: '/service/speedtest' },
           { text: '在线电台', link: '/service/radio' },
           { text: '搜索引擎与 YaCy 实例', link: '/service/search-engine'}
         ]

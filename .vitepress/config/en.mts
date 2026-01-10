@@ -20,6 +20,7 @@ export const en = defineConfig({
           { text: 'DNS Hosting', link: '/en/service/dns-hosting' },
           { text: 'Looking Glass', link: '/en/service/looking-glass' },
           { text: 'FlapAlerted', link: '/en/service/flap-alerted' },
+          { text: 'Speedtest', link: '/en/service/speedtest' },
           { text: 'Online Radio', link: '/en/service/radio' },
           { text: 'Search Engine and YaCy Instance', link: '/en/service/search-engine'}
         ]
