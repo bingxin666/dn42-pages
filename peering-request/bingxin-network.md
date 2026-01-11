@@ -25,6 +25,26 @@ Extended Next Hop: (true/false)
 
 **我更倾向于同时使用 `Multi-Protocol BGP` 和 `Extended Next Hop`。**
 
+### 对等策略
+
+我们目前对所有 BGP 会话启用了以下策略：
+ - ROA 验证（RPKI Route Origin Validation）
+ - 路由抑制（BGP Route Dampening）
+
+#### ROA 验证
+
+我们在所有节点启用了 ROA 验证，对于没有有效 ROA 的前缀将不会被接受。
+
+#### 路由抑制
+
+我们在所有节点启用了路由抑制，出于最大可达性的保证，我们采用了较为宽松的过滤，仅在**同时出现以下两个情况时才会拒绝向外部对等方发送该路由**：
+ - **超过 7 个 数据源报告了此路由**
+ - **此路由的 Flap 速率大于 1**
+
+**接受的路由没有此过滤，但接受的路由中含有 Flap 的路由不会被转发给其他对等方。**
+
+*Flap 数据源: https://flap42-data.strexp.net/*
+
 ### 节点列表
 
 #### Hong Kong - Hytron
