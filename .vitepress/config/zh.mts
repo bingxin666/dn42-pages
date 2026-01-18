@@ -29,6 +29,7 @@ export const zh = defineConfig({
         text: '对等连接',
         items: [
           { text: 'Bingxin Network', link: '/peering-request/bingxin-network' },
+          { text: 'Baka.Pub Network', link: '/peering-request/baka-pub-network' }
         ]
       }
     ],

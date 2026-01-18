@@ -29,6 +29,7 @@ export const en = defineConfig({
         text: 'Peering',
         items: [
           { text: 'Bingxin Network', link: '/en/peering-request/bingxin-network' },
+          { text: 'Baka.Pub Network', link: '/en/peering-request/baka-pub-network' }
         ]
       }
     ],
