@@ -2,7 +2,7 @@
 
 ## Peering Request
 
-**We have now opened AutoPeer for all nodes (except China Mainland and DN42 IX). You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
+**We have now opened AutoPeer for all nodes (except Chinese Mainland and DN42 IX). You can use [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram for self-service peering!**
 
 ---
 

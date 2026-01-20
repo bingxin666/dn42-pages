@@ -9,7 +9,8 @@ export const en = defineConfig({
     nav: [
       { text: 'Home', link: '/en' },
       { text: 'Services', link: '/en/service' },
-      { text: 'Peering', link: '/en/peering-request' }
+      { text: 'Peering', link: '/en/peering-request' },
+      { text: 'Information', link: '/en/information' }
     ],
 
     sidebar: [
@@ -31,9 +32,14 @@ export const en = defineConfig({
           { text: 'Bingxin Network', link: '/en/peering-request/bingxin-network' },
           { text: 'Baka.Pub Network', link: '/en/peering-request/baka-pub-network' }
         ]
+      },
+      {
+        text: 'Information',
+        items: [
+          { text: 'IPAM', link: '/en/information/IPAM' }
+        ]
       }
     ],
-
   },
 })
 

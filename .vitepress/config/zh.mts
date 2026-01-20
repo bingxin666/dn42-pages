@@ -9,7 +9,8 @@ export const zh = defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '服务', link: '/service' },
-      { text: '对等连接', link: '/peering-request' }
+      { text: '对等连接', link: '/peering-request' },
+      { text: '其他信息', link: '/information' }
     ],
 
     sidebar: [
@@ -31,9 +32,14 @@ export const zh = defineConfig({
           { text: 'Bingxin Network', link: '/peering-request/bingxin-network' },
           { text: 'Baka.Pub Network', link: '/peering-request/baka-pub-network' }
         ]
+      },
+      {
+        text: '其他信息',
+        items: [
+          { text: 'IPAM', link: '/information/IPAM' }
+        ]
       }
     ],
-
   },
 })
 
