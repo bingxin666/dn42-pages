@@ -40,8 +40,7 @@ We enable ROA validation on all nodes; prefixes without valid ROAs will not be a
 #### Route Dampening
 
 We enable route dampening on all nodes. To preserve reachability we use relatively permissive filtering; we only refuse to advertise a route to external peers when both of the following are true:
- - **More than 7 data sources report this route**
- - **The route's flap rate is greater than 1**
+ - **More than 8 data sources report this route**
 
 Accepted routes are not subject to this filter, but routes that flap among accepted routes will not be forwarded to other peers.
 
