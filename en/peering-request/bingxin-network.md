@@ -57,7 +57,7 @@ Accepted routes are not subject to this filter, but routes that flap among accep
  - DN42 IPv4: `172.20.154.225`
  - DN42 IPv6: `fddf:3681:e80:225::1`
 
-#### Japan - ACCK
+#### Japan - Skyline
  - WireGuard Public Key: `N7iQzqWLPb6lpRlf7grQG6rEzQOvDZWkmsRDkRnniH0=`
  - Endpoint: `jp01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:226`

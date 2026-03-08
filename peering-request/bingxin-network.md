@@ -53,7 +53,7 @@ Extended Next Hop: (true/false)
  - DN42 IPv4: `172.20.154.225`
  - DN42 IPv6: `fddf:3681:e80:225::1`
 
-#### Japan - ACCK
+#### Japan - Skyline
  - WireGuard 公钥: `N7iQzqWLPb6lpRlf7grQG6rEzQOvDZWkmsRDkRnniH0=`
  - 端点: `jp01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:226`
