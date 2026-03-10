@@ -34,11 +34,17 @@ export const en = defineConfig({
         ]
       },
       {
-        text: 'Information',
+        text: 'BGP Communities',
+        items: [
+          { text: 'Bingxin Network', link: '/en/bgp-community/bingxin-network' }
+        ]
+      },
+      {
+        text: 'IP Information',
         items: [
           { text: 'IPAM', link: '/en/information/IPAM' }
         ]
-      }
+      },
     ],
   },
 })

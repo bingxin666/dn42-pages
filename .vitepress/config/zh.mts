@@ -34,6 +34,12 @@ export const zh = defineConfig({
         ]
       },
       {
+        text: 'BGP Communities',
+        items: [
+          { text: 'Bingxin Network', link: '/en/bgp-community/bingxin-network' }
+        ]
+      },
+      {
         text: '其他信息',
         items: [
           { text: 'IPAM', link: '/information/IPAM' }
