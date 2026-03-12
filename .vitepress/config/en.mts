@@ -34,7 +34,7 @@ export const en = defineConfig({
         ]
       },
       {
-        text: 'BGP Communities',
+        text: 'BGP Community',
         items: [
           { text: 'Bingxin Network', link: '/en/bgp-community/bingxin-network' }
         ]
