@@ -87,9 +87,9 @@ Extended Next Hop: (true/false)
  - DN42 IPv6: `fddf:3681:e80:230::1`
  - 仅支持通过 IX Peering 连接
 
-#### Germany - BageVM
+#### Amsterdam - Leaseweb
  - WireGuard 公钥: `xFZ0S57R5ykjq5lThYEvLLWHhv2+De5D26p4bX5wdSo=`
- - 端点: `de01.dn42.baka.pub:<您 ASN 的最后五位数字>`
+ - 端点: `nl01.dn42.baka.pub:<您 ASN 的最后五位数字>`
  - 本地 IPV6 链路: `fe80::2999:232`
  - DN42 IPv4: `172.20.154.232`
  - DN42 IPv6: `fddf:3681:e80:232::1`

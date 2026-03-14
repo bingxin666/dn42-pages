@@ -91,9 +91,9 @@ Accepted routes are not subject to this filter, but routes that flap among accep
  - DN42 IPv6: `fddf:3681:e80:230::1`
  - Only supports peering via IX
 
-#### Germany - BageVM
+#### Amsterdam - Leaseweb
  - WireGuard Public Key: `xFZ0S57R5ykjq5lThYEvLLWHhv2+De5D26p4bX5wdSo=`
- - Endpoint: `de01.dn42.baka.pub:<Last five digits of your ASN>`
+ - Endpoint: `nl01.dn42.baka.pub:<Last five digits of your ASN>`
  - Local IPv6 Link: `fe80::2999:232`
  - DN42 IPv4: `172.20.154.232`
  - DN42 IPv6: `fddf:3681:e80:232::1`
