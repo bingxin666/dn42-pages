@@ -19,6 +19,7 @@ export const zh = defineConfig({
         items: [
           { text: 'Anycast DNS', link: '/service/dns' },
           { text: 'DNS 托管', link: '/service/dns-hosting' },
+          { text: '邮件服务', link: '/service/mail-service' },
           { text: 'Looking Glass', link: '/service/looking-glass' },
           { text: 'FlapAlerted', link: '/service/flap-alerted' },
           { text: 'Speedtest 网速测试', link: '/service/speedtest' },

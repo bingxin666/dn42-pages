@@ -19,6 +19,7 @@ export const en = defineConfig({
         items: [
           { text: 'Anycast DNS', link: '/en/service/dns' },
           { text: 'DNS Hosting', link: '/en/service/dns-hosting' },
+          { text: 'Email Service', link: '/en/service/mail-service' },
           { text: 'Looking Glass', link: '/en/service/looking-glass' },
           { text: 'FlapAlerted', link: '/en/service/flap-alerted' },
           { text: 'Speedtest', link: '/en/service/speedtest' },
