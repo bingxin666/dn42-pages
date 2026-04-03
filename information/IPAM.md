@@ -18,6 +18,7 @@
 | 172.20.154.228        | 🇬🇧 United Kingdom       | United Kingdom - 荔枝云 |
 | 172.20.154.229        | 🇺🇸 United States        | United States - 荔枝云  |
 | 172.20.154.230        | 🇺🇸 United States        | United States - SCIX    |
+| 172.20.154.231        | 🇳🇱 Netherlands          | X Mail Server           |
 | 172.20.154.232        | 🇳🇱 Netherlands          | Amsterdam - Leaseweb     |
 
 ### Chinese Mainland
@@ -46,6 +47,7 @@
 | fddf:3681:e80:228::1              | 🇬🇧 United Kingdom         | United Kingdom - 荔枝云 |
 | fddf:3681:e80:229::1              | 🇺🇸 United States          | United States - 荔枝云  |
 | fddf:3681:e80:230::1              | 🇺🇸 United States          | United States - SCIX    |
+| fddf:3681:e80:231::1              | 🇳🇱 Netherlands            | X Mail Server           |
 | fddf:3681:e80:232::1              | 🇳🇱 Netherlands            | Amsterdam - Leaseweb     |
 | fddf:3681:e80:f00::/56            | 🇨🇳 Hong Kong              | 试试 `traceroute` 它！   |
 
