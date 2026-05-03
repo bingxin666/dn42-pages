@@ -100,18 +100,19 @@ Accepted routes are not subject to this filter, but routes that flap among accep
 
 ---
 
-#### Guangzhou - Alibaba Cloud
+#### Guangzhou - AliYun
  - WireGuard Public Key: `i9FzGx+f2qekg+8Dv+GqlEYrhBWEx27LeLiIWQgk2zw=`
  - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv4 connection by default.`
  - Local IPv6 Link: `fe80::2999:233`
  - DN42 IPv4: `172.20.154.233`
  - DN42 IPv6: `fddf:3681:e80:233::1`
 
-#### Chengdu - AKIX
+#### Shanghai - AliYun
+ - WireGuard Public Key: `3nr4E+leZAys14jzsSshAZ3bBP9xUtbLrZJ/hGw8e0I=`
+ - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv4 connection by default.`
  - Local IPv6 Link: `fe80::2999:234`
  - DN42 IPv4: `172.20.154.234`
  - DN42 IPv6: `fddf:3681:e80:234::1`
- - Only supports peering via IX
 
 #### Shanghai - Dual Line
  - Endpoint: `I will provide the specific endpoint information after receiving the email. This endpoint only supports IPv6 connection by default.`

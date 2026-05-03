@@ -103,11 +103,12 @@ Extended Next Hop: (true/false)
  - DN42 IPv4: `172.20.154.233`
  - DN42 IPv6: `fddf:3681:e80:233::1`
 
-#### Chengdu - AKIX
+#### Shanghai - 阿里云
+ - WireGuard 公钥: `3nr4E+leZAys14jzsSshAZ3bBP9xUtbLrZJ/hGw8e0I=`
+ - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv4 连接地址。`
  - 本地 IPV6 链路: `fe80::2999:234`
  - DN42 IPv4: `172.20.154.234`
  - DN42 IPv6: `fddf:3681:e80:234::1`
- - 仅支持通过 IX Peering 连接
 
 #### Shanghai - 双线
  - 端点: `我将在收到邮件后提供具体的端点信息，此端点默认仅提供 IPv6 连接地址。`
