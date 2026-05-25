@@ -17,6 +17,7 @@ export const zh = defineConfig({
       {
         text: '服务',
         items: [
+          { text: '服务状态', link: '/service'},
           { text: 'Anycast DNS', link: '/service/dns' },
           { text: 'DNS 托管', link: '/service/dns-hosting' },
           { text: '邮件服务', link: '/service/mail-service' },
@@ -24,7 +25,10 @@ export const zh = defineConfig({
           { text: 'FlapAlerted', link: '/service/flap-alerted' },
           { text: 'Speedtest 网速测试', link: '/service/speedtest' },
           { text: '在线电台', link: '/service/radio' },
-          { text: '搜索引擎与 YaCy 实例', link: '/service/search-engine'}
+          { text: '搜索引擎与 YaCy 实例', link: '/service/search-engine'},
+          { text: 'Whois 服务器', link: '/service/whois' },
+          { text: 'BPDB', link: '/service/BPDB' },
+          { text: 'Baaka DNS 管理面板', link: '/service/dns-panel' }
         ]
       },
       {

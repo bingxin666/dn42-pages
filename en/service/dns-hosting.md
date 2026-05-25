@@ -1,5 +1,9 @@
 # DNS Hosting Service
 
+::: danger
+This service will be replaced by the [Baaka DNS Control Panel](dns-panel) in the future.
+:::
+
 **High-availability Anycast DNS service provided by AS4242423374.**
 
 We offer free DNS hosting service based on CoreDNS.

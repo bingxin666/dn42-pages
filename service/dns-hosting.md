@@ -1,5 +1,9 @@
 # DNS 托管服务
 
+::: danger 危险
+此服务将在未来由 [Baaka DNS 管理面板](dns-panel) 替代。
+:::
+
 **由 AS4242423374 提供的高可用 Anycast DNS 提供服务。**
 
 我们提供免费的 DNS 托管服务，基于 CoreDNS。

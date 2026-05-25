@@ -17,6 +17,7 @@ export const en = defineConfig({
       {
         text: 'Services',
         items: [
+          { text: 'Service List', link: '/en/service'},
           { text: 'Anycast DNS', link: '/en/service/dns' },
           { text: 'DNS Hosting', link: '/en/service/dns-hosting' },
           { text: 'Email Service', link: '/en/service/mail-service' },
@@ -24,7 +25,10 @@ export const en = defineConfig({
           { text: 'FlapAlerted', link: '/en/service/flap-alerted' },
           { text: 'Speedtest', link: '/en/service/speedtest' },
           { text: 'Online Radio', link: '/en/service/radio' },
-          { text: 'Search Engine and YaCy Instance', link: '/en/service/search-engine'}
+          { text: 'Search Engine and YaCy Instance', link: '/en/service/search-engine'},
+          { text: 'Whois Server', link: '/en/service/whois' },
+          { text: 'BPDB', link: '/en/service/BPDB' },
+          { text: 'Baaka DNS Control Panel', link: '/en/service/dns-panel' }
         ]
       },
       {
