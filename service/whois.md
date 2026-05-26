@@ -8,7 +8,8 @@
 
 | IRR 源                                                    | 服务器地址                      | 支持的查询       |
 | --------------------------------------------------------- | ------------------------------- | ---------------- |
-| 混合 IRR                                                  | `whois.baka.dn42`               | Whois            |
+| 混合                                                      | `whois.baka.dn42`               | Whois            |
+| 混合                                                      | `irr.baka.dn42`                 | IRR              |
 | [DN42 Registry](https://git.dn42.dev/dn42/registry)       | `dn42.whois.baka.dn42`          | Whois / IRR      |
 | [BPDB](https://git.dn42.dev/BPDB/BPDB)                    | `bpdb.whois.baka.dn42`          | Whois / IRR      |
 
