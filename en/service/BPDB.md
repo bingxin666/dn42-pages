@@ -100,3 +100,7 @@ source: BPDB
 U1NI... (signature content)
 -----END SSH SIGNATURE-----
 ```
+
+## Using BPDB
+
+See also: [Whois Server](./whois).
