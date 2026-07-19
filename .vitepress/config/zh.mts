@@ -28,7 +28,8 @@ export const zh = defineConfig({
           { text: '搜索引擎与 YaCy 实例', link: '/service/search-engine'},
           { text: 'Whois 服务器', link: '/service/whois' },
           { text: 'BPDB', link: '/service/BPDB' },
-          { text: 'Baaka DNS 管理面板', link: '/service/dns-panel' }
+          { text: 'Baaka DNS 管理面板', link: '/service/dns-panel' },
+          { text: 'RIR Statistics File', link: '/service/rir-statistics-exchange' }
         ]
       },
       {

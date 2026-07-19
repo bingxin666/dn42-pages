@@ -28,7 +28,8 @@ export const en = defineConfig({
           { text: 'Search Engine and YaCy Instance', link: '/en/service/search-engine'},
           { text: 'Whois Server', link: '/en/service/whois' },
           { text: 'BPDB', link: '/en/service/BPDB' },
-          { text: 'Baaka DNS Control Panel', link: '/en/service/dns-panel' }
+          { text: 'Baaka DNS Control Panel', link: '/en/service/dns-panel' },
+          { text: 'RIR Statistics File', link: '/en/service/rir-statistics-exchange' }
         ]
       },
       {
