@@ -15,19 +15,30 @@
 | 172.20.154.225        | 🇭🇰 Hong Kong   | Hong Kong - Hytron |
 | 172.20.154.226        | 🇯🇵 Japan       | Japan - ACCK |
 | 172.20.154.227        | 🇸🇬 Singapore   | Singapore - Oracle |
-| 172.20.154.228        | 🇬🇧 United Kingdom     | United Kingdom - Lycheen |
-| 172.20.154.229        | 🇺🇸 United States          | United States - Lycheen |
-| 172.20.154.230        | 🇺🇸 United States          | United States - SCIX |
-| 172.20.154.231        | 🇳🇱 Netherlands          | X Mail Server           
-| 172.20.154.232        | 🇳🇱 Netherlands            | Amsterdam - Leaseweb     |
+| 172.20.154.228        | 🇬🇧 United Kingdom | United Kingdom - Lycheen |
+| 172.20.154.229        | 🇺🇸 United States | United States - Lycheen |
+| 172.20.154.230        | 🇺🇸 United States | United States - SCIX |
+| 172.20.154.232        | 🇳🇱 Netherlands | Amsterdam - Leaseweb |
 
 ### Chinese Mainland
 
 | IP / Cidr             | Location           | Description               |
 |-----------------------|----------------|--------------------|
 | 172.20.154.233        | 🇨🇳 Guangzhou   | Guangzhou - Alibaba Cloud |
-| 172.20.154.234        | 🇨🇳 Chengdu     | Chengdu - AKIX |
-| 172.20.154.235        | 🇨🇳 Shanghai    | Shanghai - Dual Line |
+| 172.20.154.234        | 🇨🇳 Shanghai    | Shanghai - Alibaba Cloud |
+
+### Service
+
+| IP / Cidr             | Location           | Description                              |
+|-----------------------|----------------|----------------------------------|
+| 172.20.154.231        | 🇳🇱 Netherlands | [Mail Service](/service/mail-service) |
+| 172.20.154.245        | 🇭🇰 Hong Kong   | [Whois Server](/service/whois)    |
+| 172.20.154.246        | 🇭🇰 Hong Kong   | [Whois Server](/service/whois)    |
+| 172.20.154.247        | 🇭🇰 Hong Kong   | [Whois Server](/service/whois)    |
+| 172.20.154.251        | 🇭🇰 Hong Kong   | DN42 Access Point - Hong Kong    |
+| 172.20.154.252        | 🇳🇱 Netherlands | DN42 Access Point - Netherlands  |
+| 172.20.154.253        | 🇸🇬 Singapore   | DN42 Access Point - Singapore    |
+| 172.20.154.254        | 🇨🇳 Shanghai    | DN42 Access Point - Shanghai     |
 
 ## IPv6
 
@@ -35,7 +46,7 @@
 
 | IP / Cidr                         | Location           | Description               |
 |-----------------------------------|----------------|--------------------|
-| fddf:3681:e80:e80::1               | 🌍 Anycast     | Anycast DNS Server 
+| fddf:3681:e80:e80::1               | 🌍 Anycast     | Anycast DNS Server |
 
 ### Global
 
@@ -44,17 +55,26 @@
 | fddf:3681:e80:225::1              | 🇭🇰 Hong Kong   | Hong Kong - Hytron |
 | fddf:3681:e80:226::1              | 🇯🇵 Japan       | Japan - ACCK |
 | fddf:3681:e80:227::1              | 🇸🇬 Singapore   | Singapore - Oracle |
-| fddf:3681:e80:228::1              | 🇬🇧 United Kingdom     | United Kingdom - Lycheen |
-| fddf:3681:e80:229::1              | 🇺🇸 United States          | United States - Lycheen |
-| fddf:3681:e80:230::1              | 🇺🇸 United States          | United States - SCIX |
-| fddf:3681:e80:231::1              | 🇳🇱 Netherlands            | X Mail Server           |
-| fddf:3681:e80:232::1              | 🇳🇱 Netherlands            | Amsterdam - Leaseweb     |
-| fddf:3681:e80:f00::/56            | 🇨🇳 Hong Kong              | Try `traceroute` it!   |
+| fddf:3681:e80:228::1              | 🇬🇧 United Kingdom | United Kingdom - Lycheen |
+| fddf:3681:e80:229::1              | 🇺🇸 United States | United States - Lycheen |
+| fddf:3681:e80:230::1              | 🇺🇸 United States | United States - SCIX |
+| fddf:3681:e80:231::1              | 🇳🇱 Netherlands | X Mail Server |
+| fddf:3681:e80:232::1              | 🇳🇱 Netherlands | Amsterdam - Leaseweb |
+| fddf:3681:e80:f00::/56            | 🇨🇳 Hong Kong   | Try traceroute on it! |
 
 ### Chinese Mainland
 
 | IP / Cidr                         | Location           | Description               |
 |-----------------------------------|----------------|--------------------|
 | fddf:3681:e80:233::1              | 🇨🇳 Guangzhou   | Guangzhou - Alibaba Cloud |
-| fddf:3681:e80:234::1              | 🇨🇳 Chengdu     | Chengdu - AKIX |
-| fddf:3681:e80:235::1              | 🇨🇳 Shanghai    | Shanghai - Dual Line |
+| fddf:3681:e80:234::1              | 🇨🇳 Shanghai    | Shanghai - Alibaba Cloud |
+
+### Service
+
+| IP / Cidr                      | Location           | Description                              |
+|--------------------------------|----------------|----------------------------------|
+| fddf:3681:e80:231::1           | 🇳🇱 Netherlands | [Mail Service](/service/mail-service) |
+| fddf:3681:e80:401::/64         | 🇭🇰 Hong Kong   | DN42 Access Point - Hong Kong    |
+| fddf:3681:e80:402::/64         | 🇳🇱 Netherlands | DN42 Access Point - Netherlands  |
+| fddf:3681:e80:403::/64         | 🇸🇬 Singapore   | DN42 Access Point - Singapore    |
+| fddf:3681:e80:404::/64         | 🇨🇳 Shanghai    | DN42 Access Point - Shanghai     |
