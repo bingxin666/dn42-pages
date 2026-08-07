@@ -23,3 +23,5 @@
 ## 感谢
  - SCIX 提供了邮件服务器的基础设施支持。
  - AS4242420774 提供了邮箱域名。
+
+另请参阅: [Bingxin/email-plugin](https://git.origami.pub/Bingxin/email-plugin)

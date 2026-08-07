@@ -5,3 +5,5 @@
 您可通过以下链接获取最新的 RIR Statistics File：
  - `https://irr.baka.dn42/stats/`
  - `rsync://irr.baka.dn42/stats/`
+
+另请参阅: [AS214933/dn42-rir-statistics](https://github.com/AS214933/dn42-rir-statistics)
