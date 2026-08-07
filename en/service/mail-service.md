@@ -20,4 +20,6 @@ You need to apply via [@baka_lg_bot](https://t.me/baka_lg_bot) on Telegram:
  - SCIX provides infrastructure support for the email server.
  - AS4242420774 provides the email domain.
 
+---
+
 See also: [Bingxin/email-plugin](https://git.origami.pub/Bingxin/email-plugin)
